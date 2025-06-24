@@ -3,7 +3,7 @@
 A simple and stylish web-based Password Generator built with **Python (Flask)** and a beautiful **HTML/CSS/JavaScript** frontend.  
 Customize how many letters, symbols, and numbers you want — and instantly generate a secure password.
 
-![App Screenshot](images\Screenshot 2025-06-24 114630.png)
+![App Screenshot](Screenshot 2025-06-24 114630.png)
 
 
 ---
